@@ -38,7 +38,7 @@ const auth = (...requiredRoles: UserRole[]) => {
          if (requiredRoles && !requiredRoles.includes(role)) {
             throw new AppError(
                StatusCodes.UNAUTHORIZED,
-               'You are not authorized!'
+               'You Are Not Authorized!'
             );
          }
 
