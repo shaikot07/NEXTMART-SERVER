@@ -50,3 +50,4 @@ coverage/
 .vercel
 .DS_Store
 
+temp_auto_push.bat
