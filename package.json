@@ -16,6 +16,7 @@
   "dependencies": {
     "@types/nodemailer": "^6.4.17",
     "axios": "^1.7.9",
+    "node-fetch": "^3.3.2",
     "bcrypt": "^5.1.1",
     "cloudinary": "^2.5.1",
     "cookie-parser": "^1.4.7",
